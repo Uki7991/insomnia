@@ -1,0 +1,21 @@
+_id: req_9408ae665df340be889b551ee4a74810
+type: Request
+parentId: wrk_4b0fb7909f6744d4abe208900e7b1819
+modified: 1670859061611
+created: 1670859042460
+url: localhost/api/v1/product/getList
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670859042460
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
